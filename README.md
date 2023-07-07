@@ -43,4 +43,4 @@ In conclusion, this project successfully analyzed the Netflix dataset of TV show
 * The United States and India have the highest number of content contributors on Netflix.
 * The year 2019 saw the highest number of movie additions, while 2020 had the highest number of TV show additions, indicating significant growth and diversity in content during those years.
 * Most movies on Netflix have a duration between 90 to 120 minutes.
-* Adult content is produced in higher proportions by all countries except India. India produces a high percentage of Teen content. Canada leads in producing family-friendly content. Spain has the highest percentage (85%) of adult content..
+* Adult content is produced in higher proportions by all countries except India. India produces a high percentage of Teen content. Canada leads in producing family-friendly content. Spain has the highest percentage (85%) of adult content.
